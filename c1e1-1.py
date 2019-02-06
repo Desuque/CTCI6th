@@ -5,6 +5,7 @@ def main():
     print(is_unique())
     print(is_unique_without_extra_structure())
 
+
 def is_unique():
     # Is much easy to test if I define text like a variable
     text = "ABCDEFGHIJKLMNOPQRSTUVWABCABCABC"
